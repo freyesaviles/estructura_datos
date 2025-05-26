@@ -1,0 +1,1 @@
+Este proyecto implementa una solución en Python que separa los elementos de una cola según su posición: los elementos en posiciones pares permanecen en la cola, y los elementos en posiciones impares se transfieren a una pila. Se utiliza programación orientada a objetos y estructuras de datos lineales (pila y cola).
